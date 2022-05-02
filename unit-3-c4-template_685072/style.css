@@ -1,0 +1,28 @@
+#search_input{
+    width: 70%;
+    height: 35px;
+    border: 1px solid rgb(54, 181, 223);
+    display: flex;
+    margin: auto;
+    border-radius: 20px;
+    padding: 6px;
+    font-size: 25px;
+
+  }
+  #sidebar{
+    margin-top: 20px;
+    width: 10%;
+    text-align: center;
+  }
+
+  #sidebar h3{
+    cursor: pointer;
+    border: 1px solid red;
+    border-radius: 20px;
+    padding: 10px;
+  }
+  .news{
+    font-size: 40px;
+    color: black;
+    text-decoration: none;
+  }
